@@ -18,4 +18,7 @@ The PCB design featured an L298N H-Bridge to control the speed and direction of 
 
 ### 3D Render
 
-! [3D Render](Motor-Driver-V2-Render.png)
+![3D Render](Motor-Driver-V2-Render.png)
+
+### File Description
+The main function as well as sensor initialization is found within the lab7.c file and the main interrupt sequence and motor initialization is defined within motor.c. The C code makes use of the HAL library.
