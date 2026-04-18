@@ -10,4 +10,4 @@ The PCB design featured an L298N H-Bridge to control the speed and direction of 
 
 ### Schematic
 
-![Motor Driver Schematic](Motor-Driver_V2.png)
+![Motor Driver Schematic](Motor-Driver_V2-1.png)
